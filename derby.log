@@ -1,11 +1,24 @@
 ----------------------------------------------------------------
-Wed Nov 25 07:38:21 CST 2020:
+Wed Nov 25 17:23:15 CST 2020:
 正在使用类加载程序 sun.misc.Launcher$AppClassLoader@387f44 引导数据库
-目录 C:\Users\70228\Desktop\TestSystemForJava\user 中的 Derby 版本 The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631) 实例 a816c00e-0175-fc9f-1c6b-000000a53c90
+目录 D:\Project\javatestsystem\mana 中的 Derby 版本 The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631) 实例 a816c00e-0175-feb6-a5af-000000a7a2b8
 已从 file:/D:/environment/java/jdk1.8.0_40/db/lib/derby.jar 加载
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_40-b26
-user.dir=C:\Users\70228\Desktop\TestSystemForJava
+user.dir=D:\Project\javatestsystem
+os.name=Windows 8.1
+os.arch=x86
+os.version=6.3
+derby.system.home=null
+数据库类加载程序已启动 - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Nov 25 17:23:16 CST 2020:
+正在使用类加载程序 sun.misc.Launcher$AppClassLoader@387f44 引导数据库
+目录 D:\Project\javatestsystem\TiKu 中的 Derby 版本 The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631) 实例 08264012-0175-feb6-a5af-000000a7a2b8
+已从 file:/D:/environment/java/jdk1.8.0_40/db/lib/derby.jar 加载
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_40-b26
+user.dir=D:\Project\javatestsystem
 os.name=Windows 8.1
 os.arch=x86
 os.version=6.3
